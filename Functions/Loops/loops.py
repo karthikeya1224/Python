@@ -27,11 +27,11 @@
 # for j in range(1,7):
 #     for i in range(1,j):
 #         print(i,end=" ")
-#     print()/
+#     print()
 # for j in range(1,7):
 #     for i in range(1,j):
 #         print("*",end=" ")
-#     print()
+# #     print()
 # for j in range(5,0,-1):
 #     for i in range(j):
 #            print("*",end=" ")
@@ -66,13 +66,18 @@
 #         print(f"Updated list of names: {me}")  # Print the updated list after each input
 
 # print("Final list of names:", me)
-inpt=input('shall we proceed or not..?').strip().lower()
-if inpt=="yes":
-     names=[]
-while True:
-    name=input('enter name: or stop or exit ')
-    if name.lower().strip()=="stop":
-        break
-    names.append(name)
-    print(names)
-
+# inpt=input('shall we proceed or not..?').strip().lower()
+# if inpt=="yes":
+#      names=[]
+# while True:
+#     name=input('enter name: or stop or exit ')
+#     if name.lower().strip()=="stop":
+#         break
+#     names.append(name)
+#     print(names)
+# names=[]
+# num=int(input("enter how many names you wish to add:?"))
+# for i in range(num):
+#     name=input("enter name:")
+#     names.append(name)
+# print(names)

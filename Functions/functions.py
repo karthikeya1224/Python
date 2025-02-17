@@ -45,4 +45,27 @@
 #     for i in range(j):
 #            print("*",end=" ")
 #     print()
+# def greet(name):
+#     print(name)
+# greet('kit')
+# def range(age):
+#     print(age)
+# range(8)
+# def add(*n1):
+
+#     print(sum(n1))
+# add(2,4,6,12)    
+# def subs(n1,n2):
+#     print()
+# subs(10,11)
+# def arg(name,age):
+#     print(name,age)
+# arg(22,'karthikeya')
+# def args(**kwargs):
+#     sum=0
+#     for i,j in kwargs.items():
+#         sum=sum+j
+#     print(sum)
+# args(a=4,b=5,c=6,d=7)
+
 
