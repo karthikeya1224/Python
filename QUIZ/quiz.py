@@ -1,7 +1,5 @@
 import random as r
-
-score = 0  
-
+score = 0
 for i in range(1, 6):  
     opp = ["+", "-", "*", "%"]
     num1 = r.randint(1, 10)
