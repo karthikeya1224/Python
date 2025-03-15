@@ -1,0 +1,4 @@
+INFO:root:this is an informational message
+WARNING:root:this is warning
+ERROR:root:this is an error message,server not responding
+CRITICAL:root:this is very important server is down
